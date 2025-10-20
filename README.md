@@ -1,4 +1,4 @@
-# WonderNetwork Pings Overview
+# Global Triangle Inequality Violation (TIV) Analysis Using WonderNetwork RTT Data
 
 ## Objective and Scope of the Repository
 
