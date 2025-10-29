@@ -128,7 +128,7 @@ install.packages(c("igraph", "R.utils", "sf", "rnaturalearth", "rnaturalearthdat
 
 ## 📁 Output Files
 
-- `Regional_TIV_Matrix_2025.csv`: Regional average gain and TIV ratio
+- `Regional_TIV_Ratio_Matrix.csv`, `Regional_TIV_Gain_Matrix.csv`: Regional average TIV gain and ratio
 - `top_20_hubs.csv`: Cities most used in detour paths
 - Interactive maps (via `ggplot2`) included in code blocks
 
