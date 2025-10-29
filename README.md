@@ -86,7 +86,7 @@ where:
 
 🔹 Step 1: Clone & Install
 ```r
-system('git clone https://github.com/NataliaBlueCloud/wondernetwork_pings.git')
+system('git clone https://github.com/NataliaBlueCloud/rtt_latency_analysis_triangle_violations.git') 
 install.packages(c("igraph", "R.utils", "sf", "rnaturalearth", "rnaturalearthdata", "dplyr", "ggrepel", "tidyr"))
 ```
  🔹 Step 2: Load Data
