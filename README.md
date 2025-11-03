@@ -36,6 +36,8 @@ RTT data contains hourly pings (24 samples) between servers across 246 locations
 | **PacificC**      | Japan, Singapore, South Korea, etc.   | 32           |
 | **Au&NewZ**       | Australia, New Zealand                | 9            |
 
+![alt text](output_files/10_av_RTT_per_country_v5.png)
+
 
 ## 🧮 Triangle Inequality Violation (TIV)
 
