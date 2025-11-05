@@ -22,7 +22,7 @@ The dataset from **WonderNetwork’s Global Ping Statistics service** (https://w
 - **Input file**: Input_files/2025-01-01.csv.gz Ping RTT measurements between server pairs on January 1, 2025.
 - **Servers metadata**: Input_files/servers-2020-07-19.csv Metadata including server ID, city, country, and geographic coordinates.
 
-RTT data contains hourly pings (24 samples) between servers across 246 locations in 95 countries. 
+RTT data contains hourly pings (24 samples) between servers across 246 locations in 89 countries. 
 
 | Region            | Description                           | Server Count |
 | ----------------- | ------------------------------------- | ------------ |
