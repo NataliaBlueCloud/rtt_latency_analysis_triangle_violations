@@ -26,14 +26,14 @@ RTT data contains hourly pings (24 samples) between servers across 246 locations
 
 | Region            | Description                           | Server Count |
 | ----------------- | ------------------------------------- | ------------ |
-| **NorthAm**       | United States, Canada, Mexico, etc.   | 80           |
-| **WestEurope**    | UK, France, Germany, Italy, etc.      | 56           |
-| **EastEurope**    | Poland, Czech Republic, Ukraine, etc. | 30           |
+| **NorthAm**       | United States, Canada, Mexico, etc.   | 83           |
+| **WestEurope**    | UK, France, Germany, Italy, etc.      | 65           |
+| **EastEurope**    | Poland, Czech Republic, Ukraine, etc. | 27           |
 | **LatAm**         | Brazil, Argentina, Chile, etc.        | 12           |
 | **Africa**        | South Africa, Egypt, Nigeria, etc.    | 11           |
-| **MidEast**       | UAE, Israel, Saudi Arabia, etc.       | 4            |
-| **Hindustan**     | India, Pakistan, Bangladesh           | 3            |
-| **PacificC**      | Japan, Singapore, South Korea, etc.   | 32           |
+| **MidEast**       | UAE, Israel, Saudi Arabia, etc.       | 10           |
+| **Hindustan**     | India, Pakistan, Bangladesh           | 8            |
+| **ESEA**          | Japan, Singapore, South Korea, etc.   | 21           |
 | **Au&NewZ**       | Australia, New Zealand                | 9            |
 
 ![alt text](output_files/10_av_RTT_per_country_v5.png)
